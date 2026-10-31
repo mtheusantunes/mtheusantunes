@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://mtheusantunes.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Demo-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/mtheusantunes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -139,6 +139,6 @@ Predictive game agent leveraging **Conditional Probability** and dynamic transit
 
 ## 📬 Let's Connect!
 
-- 🌐 **Interactive Portfolio**: [mtheusantunes.github.io/portfolio](https://mtheusantunes.github.io/portfolio/)
+- 🌐 **Portfolio**: [mtheusantunes.github.io/portfolio](https://mtheusantunes.github.io/portfolio/)
 - 💼 **LinkedIn**: [linkedin.com/in/mtheusantunes](https://linkedin.com/in/mtheusantunes)
 - 📧 **Direct Email**: [matheusantunesfreire@gmail.com](mailto:matheusantunesfreire@gmail.com)
